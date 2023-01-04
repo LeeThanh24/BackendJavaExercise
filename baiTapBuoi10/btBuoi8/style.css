@@ -1,0 +1,56 @@
+.logo  
+{
+    width: 275px;
+}
+
+#navibar 
+{
+    background-color: rgb(53, 43, 43);
+    width:1800px;
+}
+
+#navibar ul  {
+    list-style: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 0px;
+    margin : 0;
+}
+
+#navibar ul li   {
+   
+    display:  inline-block;
+    
+}
+#navibar ul li div  a :hover 
+{
+    color : red ; 
+}
+
+#navibar ul li div a  
+{
+    font-family:"verdana";
+    color : white ;
+    font-size: 18px ;
+    text-decoration: none;
+    padding-left :25px ;
+    padding-right : 25px ;
+    
+}
+
+#logo2
+{
+    width: 1800px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: 500px ;
+  }
+
+  #t1 tr td 
+  {
+    text-align: center;
+  }
+
+
