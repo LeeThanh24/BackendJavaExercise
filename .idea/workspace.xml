@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f09274b-bc4f-4148-8cd9-37752c91cb9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Algorithm/Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BackTracking/BackTracking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapJSP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapJSP/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapJSP/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapJSP/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapJSP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapJSP/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapJSP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapJSP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapJSP/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapJSP/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baiTapBuoi10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baiTapBuoi10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baiTapBuoi10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baiTapBuoi10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baiTapBuoi10/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baiTapBuoi10/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../braniumExercise/braniumExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_pro/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_pro/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_pro/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_pro/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_pro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_pro/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_pro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_pro/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_pro/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_pro/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project_crms/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project_crms/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project_crms/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project_crms/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project_crms/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project_crms/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project_crms/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project_crms/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project_crms/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_project/src/main/java/org/example/SimpleArtifactConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_project/src/main/resources/META-INF/spring-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_project/src/test/java/org/example/SimpleArtifactConsumerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_project/src/test/resources/log4j2-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_project/src/test/resources/spring-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testtt/testtt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KFdhdw6zPMeLLvGIQR67w6tZJS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Windows10/Documents/JavaPorject/btBuoi13/src/main/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Windows10\Documents\JavaPorject\btBuoi13\src\main\java" />
+      <recent name="E:\Windows10\Documents\JavaPorject\btBuoi13\src\main\webapp\WEB-INF" />
+      <recent name="E:\Windows10\Documents\JavaPorject\btBuoi13\src\main\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Windows10\Documents\JavaPorject\btBuoi13\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="contextPath" value="" />
+      <option name="docBase" value="E:\Windows10\Documents\JavaPorject\btBuoi13\src\main\webapp" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.70" />
+          <option name="path" value="$PROJECT_DIR$/../../../Downloads/apache-tomcat-9.0.70" />
+          <option name="version" value="9.0.70.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f09274b-bc4f-4148-8cd9-37752c91cb9e" name="Changes" comment="" />
+      <created>1673574386452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673574386452</updated>
+      <workItem from="1673574387761" duration="1805000" />
+      <workItem from="1675082535946" duration="1438000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
